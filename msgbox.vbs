@@ -1,0 +1,6 @@
+x=msgbox("you computer is hacked. pls restart your computer" ,0, "computer hacked") 
+x=msgbox("you computer is hacked. pls restart your computer" ,0, "computer hacked") 
+x=msgbox("you computer is hacked. pls restart your computer" ,0, "computer hacked") 
+x=msgbox("you computer is hacked. pls restart your computer" ,0, "computer hacked") 
+x=msgbox("you computer is hacked. pls restart your computer" ,0, "computer hacked") 
+x=msgbox("you computer is hacked. pls restart your computer" ,0, "computer hacked") 

